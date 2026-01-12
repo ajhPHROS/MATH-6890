@@ -1,4 +1,4 @@
-# MATH 6890: Introduction to Data-Driven Modeling and ANalysis
+# MATH 6890: Introduction to Data-Driven Modeling and Analysis
 This is the main repository of course materials for MATH 6890 at RPI, Spring 2026. The syllabus is posted in the README below.
 Lecture notes, homework, exams, and supplementary materials will be posted here or linked through Piazza and Gradescope (RCS access only).
 
