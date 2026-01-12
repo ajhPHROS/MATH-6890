@@ -15,7 +15,7 @@ Lecture notes, homework, exams, and supplementary materials will be posted here 
 
 **Instructor**: Andrew Horning
 
-**Office Hours:** 3-4pm on Tuesday / Wednesday in Amos Eaton 329. 
+**Office Hours:** 4-5pm on Tuesday / Wednesday in Amos Eaton 329. 
 
 **Contact:** hornia3@rpi.edu
 
