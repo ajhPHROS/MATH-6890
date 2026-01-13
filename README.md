@@ -54,9 +54,9 @@ A list of possible candidates for project topics will be assembled below as the 
 
 ### Lecture 1
 
-- Data, models, and mathematics
-- Topics forecast
-- The art of prediction: interpolation vs. extrapolation
+- Course logistics and overview
+- What makes a mathematical model "good"?
+- Where do mathematical models come from?
 
 [Notes]() | [Reading]()
 
