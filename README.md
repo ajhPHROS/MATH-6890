@@ -58,5 +58,5 @@ A list of possible candidates for project topics will be assembled below as the 
 - What makes a mathematical model "good"?
 - Where do mathematical models come from?
 
-[Notes]() | [Reading]()
+[Notes](lecture01.pdf)
 
