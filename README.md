@@ -60,3 +60,11 @@ A list of possible candidates for project topics will be assembled below as the 
 
 [Notes](lecture01.pdf)
 
+### Lecture 2
+
+- Data-fitting, prediction, and generalization
+- Model recovery and stability
+- Example: polynomial interpolation
+
+[Notes](lecture02.pdf)
+
