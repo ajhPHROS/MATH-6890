@@ -68,3 +68,12 @@ A list of possible candidates for project topics will be assembled below as the 
 
 [Notes](lecture02.pdf)
 
+### Lecture 3
+
+- Fitting a dictionary to data
+- Interpolation points and ill-conditioned Vandermonde matrices
+- Dictionary choice and stable interpolation algorithms
+
+[Notes](lecture03.pdf) | [Demo](demo01.m) | Read more about polynomial interpolation in this nice [review article](https://doi.org/10.1137/S0036144502417715) (a PDF is available on the second author's [website](https://people.maths.ox.ac.uk/trefethen/papers.html) if you cannot access it through SIAM).
+
+
