@@ -76,4 +76,12 @@ A list of possible candidates for project topics will be assembled below as the 
 
 [Notes](lecture03.pdf) | [Demo](demo01.m) | Read more about polynomial interpolation in this nice [review article](https://doi.org/10.1137/S0036144502417715) (a PDF is available on the second author's [website](https://people.maths.ox.ac.uk/trefethen/papers.html) if you cannot access it through SIAM).
 
+### Lecture 4
+
+- Two-step error analysis of interpolants
+- Step 1: Smoothness and convergence rates for "best" approximants
+- Step 2: The influence of sample points on the interpolation error
+
+[Notes](lecture04.pdf) | For proofs of Jackson's theorems and more about Lebesgue constants, see these [notes](https://lms.rpi.edu/ultra/courses/_25347_1/cl/outline) on LMS under the "Readings" tab, also available online from UMD's Numerical Analysis course (courtesy of Tobias von Petersdorff). For further reading about polynomial approximation and 1d approximation theory, you may enjoy [six myths about polynomial interpolation](https://doi.org/10.1137/1.9781611975949.appa) (visit the author's website for a free copy of the article) and the [first six chapters](https://people.maths.ox.ac.uk/trefethen/ATAP/) of "ATAP" = Approximation Theory and Approximation Practice to brush up on the theory and practice of polynomial approximations. An alternative derviation of convergence rates (based on "best" approximations in a different norm) for Chebyshev interpolants appear in [Chapter 7](https://lms.rpi.edu/ultra/courses/_25347_1/cl/outline) (under Readings on LMS).
+
 
