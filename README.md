@@ -47,7 +47,7 @@ A list of possible candidates for project topics will be assembled below as the 
 
 ## Assignments
 
-- [Homework 1](hw/) is due by 5pm on Friday, January 30. [(Solutions)]()
+- [Homework 1](hw/) is due by 5pm on Friday, February 6. [(Solutions)]()
 
   
 ## Lecture summaries
