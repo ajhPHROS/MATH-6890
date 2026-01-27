@@ -84,4 +84,12 @@ A list of possible candidates for project topics will be assembled below as the 
 
 [Notes](lecture04.pdf) | For proofs of Jackson's theorems and more about Lebesgue constants, see these [notes](https://lms.rpi.edu/ultra/courses/_25347_1/cl/outline) on LMS under the "Readings" tab, also available online from UMD's Numerical Analysis course (courtesy of Tobias von Petersdorff). For further reading about polynomial approximation and 1D approximation theory, you may enjoy [six myths about polynomial interpolation](https://doi.org/10.1137/1.9781611975949.appa) (visit the author's website for a free copy of the article) and the [first six chapters](https://people.maths.ox.ac.uk/trefethen/ATAP/) of "ATAP" = Approximation Theory and Approximation Practice. An alternative derivation of convergence rates for Chebyshev interpolants (based on "best" approximations in a different norm) appears in [Chapter 7](https://lms.rpi.edu/ultra/courses/_25347_1/cl/outline) (under Readings on LMS).
 
+### Lecture 5
+
+- Polynomial regression and least-squares
+- The power and limitations of oversampling
+- Best L2 approximation and weighted least-squares
+
+[Notes](Lecture05.pdf) | [Demo](demo02.m) | Check out this [review article](https://doi.org/10.1137/090774707) by Platte, Trefethen, and Kuijlaars for an extensive summary of methods aimed at approximating very smooth functions (analytic) from equispaced data, as well as a fascinating "impossibility" result that captures a fundamental tension between accurate and stable algorithms for equispaced data. (You can find a free pdf of the article at the second author's website under "Papers".) For an approach that optimally balances accuracy and stability, see this [article](https://arxiv.org/abs/2110.03755) by Adcock and Shadrin.
+
 
