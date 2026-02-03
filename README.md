@@ -92,4 +92,12 @@ A list of possible candidates for project topics will be assembled below as the 
 
 [Notes](lecture05.pdf) | [Demo](demo02.m) | Check out this [review article](https://doi.org/10.1137/090774707) by Platte, Trefethen, and Kuijlaars for an extensive summary of methods aimed at approximating very smooth functions (analytic) from equispaced data, as well as a fascinating "impossibility" result that captures a fundamental tension between accurate and stable algorithms for equispaced data. (You can find a free pdf of the article at the second author's website under "Papers".) For an approach that optimally balances accuracy and stability, see this [article](https://arxiv.org/abs/2110.03755) by Adcock and Shadrin.
 
+### Lecture 6
+
+- Sensitivity of least-squares solutions
+- Oversampling trades "approximation power" for "stability"
+- Limits of Gram matrices and dictionary condition numbers
+
+[Notes](lecture06.pdf) | [Demo](demo02.m)
+
 
