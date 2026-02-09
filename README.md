@@ -102,8 +102,8 @@ A list of possible candidates for project topics will be assembled below as the 
 
 ### Lecture 7
 
-- When is extrapolation well-posed?
-- Analytic functions and unique continuation
+- Interpolation and regression from inexact data
+- Extrapolation and analytic continuation
 - Extrapolation from inexact data
 
 [Notes](lecture07.pdf) | Check out Trefethen's ["Quantifying the Ill-Conditioning of Analytic Continuation"](https://arxiv.org/abs/1908.11097) for a clear and concise treatment of analytic continuation from inexact data using Hadamard's "Three Lines Lemma." See Demanet and Townsend's ["Stable Extrapolation of Analytic Functions"](https://arxiv.org/abs/1605.09601) for an analysis of extrapolation from noisy samples using Chebyshev polynomials.
