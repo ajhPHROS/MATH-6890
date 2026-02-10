@@ -108,4 +108,13 @@ A list of possible candidates for project topics will be assembled below as the 
 
 [Notes](lecture07.pdf) | Check out Trefethen's ["Quantifying the Ill-Conditioning of Analytic Continuation"](https://arxiv.org/abs/1908.11097) for a clear and concise treatment of analytic continuation from inexact data using Hadamard's "Three Lines Lemma." See Demanet and Townsend's ["Stable Extrapolation of Analytic Functions"](https://arxiv.org/abs/1605.09601) for an analysis of extrapolation from noisy samples using Chebyshev polynomials.
 
+### Lecture 8
+
+- Autonomous dynamical systems and vector fields
+- Sampling trajectories and "snapshot" data
+- Linear dynamics and the matrix exponential
+
+[Notes](lecture08.pdf) | For a reference on dynamical systems that is brilliantly insightful and highly accessible, you may want to pick up a copy of Steve Strogatz's classic [Nonlinear Dynamics and Chaos](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering). Chapter 5 covers linear dynamical systems in the two-dimensional setting.
+
+
 
