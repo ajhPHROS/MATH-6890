@@ -116,5 +116,13 @@ A list of possible candidates for project topics will be assembled below as the 
 
 [Notes](lecture08.pdf) | For a reference on dynamical systems that is brilliantly insightful and highly accessible, you may want to pick up a copy of Steve Strogatz's classic [Nonlinear Dynamics and Chaos](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering). Chapter 5 covers linear dynamical systems in the two-dimensional setting.
 
+### Lecture 9
+
+- Example: damped oscillator
+- Eigenvalues, eigenvectors, and the phase plane
+- Fitting a linear model to "snapshot" data
+
+[Notes](lecture09.pdf) | [Demo](demo03.m)
+
 
 
