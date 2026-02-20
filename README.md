@@ -124,5 +124,14 @@ A list of possible candidates for project topics will be assembled below as the 
 
 [Notes](lecture09.pdf) | [Demo](demo03.m)
 
+### Lecture 10
+
+- Discrete-time dynamics of snapshots sampled along a trajectory
+- "Learning" the discrete-time map via overdetermined least-squares
+- Numerical experiment: data-driven approach to the damped oscillator
+
+[Notes](lecture10.pdf) | See the [demo](demo03.m) for numerical experiments
+
+
 
 
