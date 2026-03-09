@@ -146,7 +146,7 @@ A list of possible candidates for project topics will be assembled below as the 
 - The eigenpairs of a low-rank matrix
 - "Exact DMD" and block Rayleigh quotients
 
-[Notes](Lectures12.pdf) | See Chapters 1 and 2 of the [DMD Book](https://epubs.siam.org/doi/book/10.1137/1.9781611974508) for an intro to DMD and its historical applications in fluid dynamics (online access via the RPI Library). For a detailed analysis of the structure of DMD approximations and modern numerical implementations, see the article by [Drmac, Mezic, and Mohr](https://doi.org/10.1137/17M1144155) (or on the [arXiv](https://arxiv.org/abs/1708.02685)).
+[Notes](Lecture12.pdf) | See Chapters 1 and 2 of the [DMD Book](https://epubs.siam.org/doi/book/10.1137/1.9781611974508) for an intro to DMD and its historical applications in fluid dynamics (online access via the RPI Library). For a detailed analysis of the structure of DMD approximations and modern numerical implementations, see the article by [Drmac, Mezic, and Mohr](https://doi.org/10.1137/17M1144155) (or on the [arXiv](https://arxiv.org/abs/1708.02685)).
 
 
 
