@@ -148,5 +148,12 @@ A list of possible candidates for project topics will be assembled below as the 
 
 [Notes](lecture12.pdf) | See Chapters 1 and 2 of the [DMD Book](https://epubs.siam.org/doi/book/10.1137/1.9781611974508) for an intro to DMD and its historical applications in fluid dynamics (online access via the RPI Library). For a detailed analysis of the structure of DMD approximations and modern numerical implementations, see the article by [Drmac, Mezic, and Mohr](https://doi.org/10.1137/17M1144155) (or on the [arXiv](https://arxiv.org/abs/1708.02685)).
 
+### Lecture 13
+
+- DMD algorithms with rank truncation
+- Limitations of standard DMD
+- Example: 1D Advection
+
+[Notes](lecture13.pdf) | For more applications and adaptations of DMD, browse the [DMD Book](https://epubs.siam.org/doi/book/10.1137/1.9781611974508).
 
 
