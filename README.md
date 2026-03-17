@@ -157,4 +157,12 @@ A list of possible candidates for project topics will be assembled below as the 
 
 [Notes](lecture13.pdf) | For more applications and adaptations of DMD, browse the [DMD Book](https://epubs.siam.org/doi/book/10.1137/1.9781611974508).
 
+### Lecture 14
+
+- Physics-Informed DMD (piDMD)
+- Physical properties and matrix manifolds
+- Examples: Diffusion vs. Advection
+
+[Notes]
+
 
