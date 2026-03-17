@@ -163,6 +163,6 @@ A list of possible candidates for project topics will be assembled below as the 
 - Physical properties and matrix manifolds
 - Examples: Diffusion vs. Advection
 
-[Notes]
+[Notes](lecture14.pdf) | See the [piDMD paper](https://doi.org/10.1098/rspa.2022.0576) by Baddoo, Herrmann, McKeon, Kutz, and Brunton (arXiv verion [here](https://arxiv.org/abs/2112.04307)).
 
 
