@@ -48,6 +48,7 @@ A list of possible candidates for project topics will be assembled below as the 
 ## Assignments
 
 - [Homework 1](https://piazza.com/class/mk7gbuh04ut72l/post/11) is due by 6pm on Friday, February 20. [Solutions](https://piazza.com/class/mk7gbuh04ut72l/post/15)
+- [Homework 2](https://piazza.com/class/mk7gbuh04ut72l/post/17) is due by 6pm on Monday, March 30.
 
   
 ## Lecture summaries
