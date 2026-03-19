@@ -44,6 +44,24 @@ The report should be written in clear and concise language at a **level that is 
 
 A list of possible candidates for project topics will be assembled below as the semester progresses, with references to get you started.
 
+* Variations on Dynamic Mode Decomposition
+    - [Robust Numerical Implementations](https://arxiv.org/abs/1708.02685)
+    - [Variants From The DMD Multiverse](https://arxiv.org/abs/2312.00137)
+    - [More Applications of DMD](http://dmdbook.com/)
+* Data-Driven Dynamical Systems beyond DMD
+    - [Sparse Identification of Nonlinear Dynamics (SINDy)](https://arxiv.org/abs/1509.03580)
+    - [Data-Driven Modeling via Spectral Submanifolds](https://arxiv.org/abs/2201.04976)
+* Operator learning: Learning PDE solution operators and other inf-dim operators from data
+    - [Elliptic PDEs](https://arxiv.org/abs/2102.00491)
+    - [Parabolic PDEs](https://arxiv.org/abs/2204.12789)
+    - [Neural network approach](https://arxiv.org/abs/2210.16016)
+    - [Random Features Model](https://arxiv.org/abs/2005.10224)
+    - [Noisy Operator Learning](https://arxiv.org/abs/2108.12515)
+    - [Kernel Methods for Operator Learning](https://arxiv.org/abs/2304.13202)
+* Principle Component Analysis (PCA): extensions of PCA and Kernel PCA that are robust to noise, promote sparsity, etc.
+    - [Kernel PCA](https://ieeexplore.ieee.org/abstract/document/6790375)
+    - [Robust PCA](https://arxiv.org/abs/0912.3599)
+
 
 ## Assignments
 
