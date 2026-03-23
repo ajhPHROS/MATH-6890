@@ -177,10 +177,17 @@ A list of possible candidates for project topics will be assembled below as the 
 
 ### Lecture 14
 
-- Physics-Informed DMD (piDMD)
-- Physical properties and matrix manifolds
-- Examples: Diffusion vs. Advection
+- The need for physics-informed DMD (piDMD)
+- Example 1: Diffusion ("low-rank" physics)
+- Example 2: Advection ("diagonal" physics)
 
 [Notes](lecture14.pdf) | See the [piDMD paper](https://doi.org/10.1098/rspa.2022.0576) by Baddoo, Herrmann, McKeon, Kutz, and Brunton (arXiv verion [here](https://arxiv.org/abs/2112.04307)).
 
+### Lecture 15
+
+- Physical properties and matrix manifolds
+- Conservation, causality, and shift-invariance
+- Structure-preserving discrete models of advection
+
+[Notes](lecture15.pdf) | See the [piDMD paper](https://doi.org/10.1098/rspa.2022.0576) by Baddoo, Herrmann, McKeon, Kutz, and Brunton (arXiv verion [here](https://arxiv.org/abs/2112.04307)).
 
