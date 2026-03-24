@@ -199,3 +199,11 @@ A list of possible candidates for project topics will be assembled below as the 
 
 [Notes](lecture16.pdf) | Put piDMD into action for a discrete advection model with [demo04.m](demo04.m).
 
+### Lecture 17
+
+- Geometric analysis of nonlinear dynamics
+- Fixed points and local linear models
+- Examples: A 1D flow and the Duffing oscillator
+
+[Notes](lecture17.pdf) | For more on this "geometric" way of thinking about nonlinear dynamics, see Chapters 2 (1D) and 6 (2D) of [Nonlinear Dynamics and Chaos](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering).
+
