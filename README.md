@@ -197,5 +197,5 @@ A list of possible candidates for project topics will be assembled below as the 
 - The shift-invariant Procrustes problem
 - The orthogonal Procrustes problem
 
-[Notes](lecture16.pdf) | Put piDMD [into action](demo04.m) for a discrete advection model.
+[Notes](lecture16.pdf) | Put piDMD into action for a discrete advection model with [demo04.m](demo04.m).
 
