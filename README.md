@@ -191,3 +191,11 @@ A list of possible candidates for project topics will be assembled below as the 
 
 [Notes](lecture15.pdf) | See the [piDMD paper](https://doi.org/10.1098/rspa.2022.0576) by Baddoo, Herrmann, McKeon, Kutz, and Brunton (arXiv verion [here](https://arxiv.org/abs/2112.04307)).
 
+### Lecture 16
+
+- Constructing piDMD models from snapshot data
+- The shift-invariant Procrustes problem
+- The orthogonal Procrustes problem
+
+[Notes](lecture16.pdf) | Put piDMD [into action](demo04.m) for a discrete advection model.
+
