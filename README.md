@@ -207,3 +207,11 @@ A list of possible candidates for project topics will be assembled below as the 
 
 [Notes](lecture17.pdf) | For more on this "geometric" way of thinking about nonlinear dynamics, see Chapters 2 (1D) and 6 (2D) of [Nonlinear Dynamics and Chaos](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering).
 
+### Lecture 18
+
+- Observables and the Koopman Operator
+- Koopman Mode Decompositions (KMD)
+- The spectrum of a shift operator
+
+[Notes](lecture18.pdf) | For an introduction to Modern Koopman Operator theory, see the review article by [Brunton, Budisic, Kaiser, and Kutz](https://doi.org/10.1137/21M1401243).
+
