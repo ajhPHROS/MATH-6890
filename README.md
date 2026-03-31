@@ -215,3 +215,10 @@ A list of possible candidates for project topics will be assembled below as the 
 
 [Notes](lecture18.pdf) | For an introduction to Modern Koopman Operator theory, see the review article by [Brunton, Budisic, Kaiser, and Kutz](https://doi.org/10.1137/21M1401243).
 
+### Lecture 19
+
+- Koopman eigenpairs for linear dynamics
+- The level sets of Koopman eigenfunctions
+- The "lattice" structure of Koopman spectra
+
+[Notes](lecture19.pdf)
