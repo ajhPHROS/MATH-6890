@@ -21,7 +21,7 @@ Lecture notes, homework, exams, and supplementary materials will be posted here 
 
 **Course Tools:** Communicate (announcements, questions, and discussion) through [Piazza](https://piazza.com/). View and submit homework assignments on [Gradescope](https://www.gradescope.com/). The final project will be submitted on Gradescope.
 
-**Grading:** 50% homework (4-5 Homeworks), 30% project (due April 22), 20% presentation (April 24 / 27). Problem sets must be submitted to Gradescope before the deadline on the due date. Regrade requests can be made on Gradescope within one week of return.
+**Grading:** 50% homework (4-5 Homeworks), 30% project (due April 22), 20% presentation (April 24 / 28). Problem sets must be submitted to Gradescope before the deadline on the due date. Regrade requests can be made on Gradescope within one week of return.
 
 **Collaboration and Academic Integrity:** To maximize your learning objectives, reserve time to work on each problem independently before discussing it with your classmates. Always write up the solution on your own and acknowledge your collaborators. Copying solutions from peers, books, internet sources, or **AI tools** is strictly prohibited.
 
