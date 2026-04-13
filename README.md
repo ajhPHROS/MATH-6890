@@ -222,4 +222,31 @@ A list of possible candidates for project topics will be assembled below as the 
 - The level sets of Koopman eigenfunctions
 - The "lattice" structure of Koopman spectra
 
-[Notes](lecture19.pdf)
+[Notes](lecture19.pdf) | See Section 2.2 of [Brunton, Budisic, Kaiser, and Kutz](https://doi.org/10.1137/21M1401243).
+
+### Lectures 20
+
+- Sublevel sets of complex eigenfunctions
+- The unit eigenvalue and invariant sets
+- Example: the nonlinear pendulum
+
+[Notes](lecture20.pdf) | For more on the trapping proprties of Koopman eigenfunction level sets and, more generally, global stability analysis from Koopman eigenfunctions, see [Mauroy and Mezic](https://arxiv.org/abs/1408.1379).
+
+### Lecture 21
+
+- Limit cycles, isochrons, and eigenvalues on the unit circle
+- The power method for dominant ``resonant" eigenspaces
+- Time-averaging methods for the conserved eigenspace
+
+[Notes](lecture21.pdf) | For more on isostables, isochrons, and their applications to model-order reduction and large-scale linearlizations, see [Mauroy, Mezic, and Moehlis](https://arxiv.org/abs/1302.0032) and [Lan and Mezic](https://www.sciencedirect.com/science/article/abs/pii/S0167278912002102).
+
+### Lecture 22
+
+- Fourier averaging methods for isochrons
+- Analysis of Fourier averaging methods
+- Filtered subspace iteration for Koopman operators
+
+[Notes](lecture22.pdf) | For more on Fourier averaging methods for isochrons, see the classic [Mauroy and Mezic](https://doi.org/10.1063/1.4736859). For a modern operator-theoretic perspective, see section 5 of [Colbrook, Drmac, and Horning](https://arxiv.org/abs/2510.22002).
+
+
+
