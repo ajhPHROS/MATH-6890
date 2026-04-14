@@ -254,5 +254,5 @@ A list of possible candidates for project topics will be assembled below as the 
 - "Learning" Koopman operators on an observable subspace
 - Minimal residuals and the Galerkin approximation
 
-[Notes](lecture23.pdf) |
+[Notes](lecture23.pdf) | Play with this [demo](demo05.m) to compute isochrons of the Van der Pol oscillator from trajectory data.
 
