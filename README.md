@@ -248,5 +248,11 @@ A list of possible candidates for project topics will be assembled below as the 
 
 [Notes](lecture22.pdf) | For more on Fourier averaging methods for isochrons, see the classic [Mauroy and Mezic](https://doi.org/10.1063/1.4736859). For a modern operator-theoretic perspective, see section 5 of [Colbrook, Drmac, and Horning](https://arxiv.org/abs/2510.22002).
 
+### Lecture 23
 
+- Data-driven isochrons of the Van der Pol oscillator
+- "Learning" Koopman operators on an observable subspace
+- Minimal residuals and the Galerkin approximation
+
+[Notes](lecture23.pdf) |
 
