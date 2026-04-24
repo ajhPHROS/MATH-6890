@@ -256,3 +256,11 @@ A list of possible candidates for project topics will be assembled below as the 
 
 [Notes](lecture23.pdf) | Play with this [demo](demo05.m) to compute isochrons of the Van der Pol oscillator from trajectory data.
 
+### Lecture 24
+
+- "Data-driven" Galerkin approximation from snapshots
+- State-space quadrature and weighted least-squares
+- Convergence in the large data and large dictionary limits
+
+[Notes](lecture24.pdf) | See section 3 of [Colbrook, Drmac, and Horning](https://arxiv.org/abs/2510.22002).
+
